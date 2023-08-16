@@ -11,8 +11,11 @@ Hello! I'm Amir Zahedi, a Python/Django Back-End Developer at Reseliance. I'm pa
 - **Role:** Python/Django Back-End Developer
 - **Framework:** Django/Django Rest Framework
 - **Databases:** Sqlite, Postgresql
-- **Email:** reselians.azahedi@gmail.com
-- **GitHub Username:** [reseliansazahedi](https://github.com/reseliansazahedi)
+- **Company Email:** reselians.azahedi@gmail.com
+- **Company GitHub Username:** [reseliansazahedi](https://github.com/reseliansazahedi)
+- **Personal Email:** reselians.azahedi@gmail.com
+- **Personal GitHub Username:** [amrzhd](https://github.com/amrzhd)
+
 
 ## Current Work
 
